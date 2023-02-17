@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 [![Pronouns](https://img.shields.io/badge/pronouns-he/him-red)](http://pronoun.is/he) [![location](https://img.shields.io/badge/location-🇨🇦%20Montreal-white)](https://en.wikipedia.org/wiki/Montreal) [![Editor](https://img.shields.io/badge/editor-nvim-blue)](https://neovim.io/)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesflores&layout=compact&theme=radical)
 <!--
 **thalesflores/thalesflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
